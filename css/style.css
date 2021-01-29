@@ -1,0 +1,111 @@
+
+nav, section.uno{
+	background-color: rgb(135,80,156); 
+}
+
+nav div ul li a.activo {
+	background: rgb(100,58,121);
+}
+
+section.dos{
+	background-color: rgb(23,194,164);
+}
+section.tres{
+	background-color: rgb(231,241,248);
+}
+section.cuatro{
+	background-color: rgb(255,255,255);
+}
+section.cinco{
+	background-color: rgb(255,221,153);
+}
+section.seis{
+	background-color: rgb(215,70,128);
+}
+section.siete{
+	background-color: rgb(60,84,153);
+}
+footer div.footer{
+	background-color: rgb(52,75,142);
+}
+form div.form-group .inputBackgound{
+	background-color: rgba(39,58,113);
+	border: none;
+}
+
+.uno header{
+	padding-top: 100px; 
+}
+.dos header, .tres header, .cuatro header, .cinco header, .seis header, .site header{
+	padding-top: 50px; 
+}
+.dos header img.iconos{
+	height: 135px;
+}
+hr{
+	width: 10%;
+	border-top: 4px solid rgba(0,0,0,0.2);
+}
+section.tres article div.social span{
+	background-color: rgb(189,209,223);
+}
+section.tres p.body{
+	height: 120px;
+}
+section.tres article header p.tresCargo{
+	color: rgb(48,186,231);
+}
+section.seis article div p span.cargo{
+	color: rgb(250,205,150);
+}
+section.cinco div.pest a {
+	text-decoration: none;
+	color: black;
+	background-color: rgba(0,0,0,0.2);
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 10%;
+}
+section.cinco div.pest a.active {
+	background-color: rgba(255,255,255,0.9);
+}
+
+button.btnWORK{
+	border-radius: 5%;
+	background-color: rgb(235,125,75);
+	box-shadow: 0px 5px 0px rgb(200,106,64);
+}
+button.btnWORK:hover{
+	background-color: rgb(200,106,64);
+}
+button.btnWORK:active{
+	background-color: rgb(180,86,44);
+	box-shadow: 0px 5px 0px rgb(160,66,24);
+}
+button.btnLOAD{
+	border-radius: 5%;
+	background-color: rgb(23,194,164);
+	box-shadow: 0px 5px 0px rgb(20,164,140);
+}
+button.btnLOAD:hover{
+	background-color: rgb(20,164,140);
+}
+button.btnLOAD:active{
+	background-color: rgb(10,150,130);
+	box-shadow: 0px 5px 0px rgb(0,140,120);
+}
+button.btnSEND{
+	border-radius: 5%;
+	background-color: rgb(48,186,231);
+	box-shadow: 0px 5px 0px rgb(41,158,197);
+}
+button.btnSEND:hover{
+	background-color: rgb(41,158,197);
+}
+button.btnSEND:active{
+	background-color: rgb(31,148,187);
+	box-shadow: 0px 5px 0px rgb(21,138,177);
+}
+footer div.footer span.activo{
+	color: rgb(48,186,231);
+}
